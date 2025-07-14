@@ -8,8 +8,7 @@ Key features include:
 - Autoscaling infrastructure with load balancing
 - CI/CD automation using Azure DevOps
 - Secure network segmentation with VNet & NSGs
-- Real-time monitoring via Azure Monitor & Application Insights
-Whether you're a student, engineer, or cloud enthusiast, this repository offers a real-world reference architecture for deploying enterprise-grade applications on Azure.
+- Real-time monitoring via Azure Monitor & Application Insight
 
 ---
 
@@ -253,6 +252,6 @@ This project is open-source and available under the **MIT License**.
 
 ---
 
-> _\"At AfroTech, we believe scalable cloud-native architecture isn't just for the enterprise—it's for every developer who dares to build big.\"_
+> _\"At AfroTech, we believe scalable cloud-native architecture isn't just for the enterprise, it's for every developer who dares to build big.\"_
 
 
