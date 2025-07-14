@@ -3,8 +3,8 @@
 <img width="1958" height="487" alt="image" src="https://github.com/user-attachments/assets/44664eca-40d1-4cd2-aae0-53fa5d38d2fc" />
 
 > **Developed by TechStylers Group 2**  
-> The project was built by TechStylers Group 2 as part of a practical cloud engineering initiative to address real-world challenges like traffic surges, system crashes, and deployment delays—especially during events like Black Friday sales.
-> Key features include:
+> The project was built by TechStylers Group 2 as part of a practical cloud engineering initiative to address real-world challenges like traffic surges, system crashes, and deployment delays, especially during events like Black Friday sales.
+Key features include:
 - Autoscaling infrastructure with load balancing
 - CI/CD automation using Azure DevOps
 - Secure network segmentation with VNet & NSGs
@@ -70,19 +70,6 @@ AfroTech was developed to solve these issues by offering:
 
 ## Architecture Diagram
 <img width="1748" height="723" alt="image" src="https://github.com/user-attachments/assets/3a706201-ce9c-40a7-bce6-172e4af57b93" />
-
-
-User --> Azure App Service (Frontend) --> Azure SQL (Database)
-           |
-     Azure Load Balancer
-           |
-       Virtual Machines
-           |
-      Network Security Groups
-           |
-    Azure AD Authentication
-           |
-  Azure Monitor & Insights
 
 ---
 
