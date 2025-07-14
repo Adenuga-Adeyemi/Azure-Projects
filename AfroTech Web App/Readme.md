@@ -1,8 +1,6 @@
 # AfroTech Web App: Scalable E-commerce on Microsoft Azure
 
-![Uploading image.png…]()
-
-<img width="10020" height="142" alt="image" src="https://github.com/user-attachments/assets/b92e9a1a-985d-44d0-9919-3f469ed8d84c" /># AfroTech Web App: Scalable E-commerce on Microsoft Azure
+<img width="1958" height="487" alt="image" src="https://github.com/user-attachments/assets/44664eca-40d1-4cd2-aae0-53fa5d38d2fc" />
 
 > **Developed by TechStylers Group 2**  
 > The project was built by TechStylers Group 2 as part of a practical cloud engineering initiative to address real-world challenges like traffic surges, system crashes, and deployment delays—especially during events like Black Friday sales.
