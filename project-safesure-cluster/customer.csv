@@ -1,0 +1,25 @@
+CustomerID,FullName,Gender,DOB,City,Country,Email,Phone,JoinDate
+CUST001,Emeka Obi,Female,31/12/1996,Port Harcourt,Nigeria,joyuche@Gmail.com,,01/11/2017
+CUST002,Sarah Musa,Female,28/01/1976,Enugu,Nigeria,chiomaeze@gmail.com,8124455763,20/07/2017
+CUST003,John Doe,MALE,02/06/1992,ibadan,Nigeria,michael.adeyemi@gmail.com,8124868540,22/09/2020
+CUST004,John Doe,Female,27/11/1993,Abjua,Nigeria,peter.johnsongmail.com,8128605456,19/01/2021
+CUST005,Mary-Ann Bello,FEMALE,02/05/1991,ibadan,Nigeria,maryann@gmail..com,,20/10/2022
+CUST006,John Doe,Male,16/12/1998,Port Harcourt,Nigeria,johndoe@gmail.com,8123786097,07/12/2021
+CUST007,Joy Uche,MALE,13/10/1989,Lagos,Nigeria,michael.adeyemi@gmail.com,2.34806E+12,15/04/2022
+CUST008,Joy Uche,Male,29/04/2003,Abuja,Nigeria,chiomaeze@gmail.com,2.34804E+12,26/10/2019
+CUST009,Michael Adeyemi,FEMALE,21/01/1999,Abjua,Nigeria,joyuche@Gmail.com,8126708069,01/09/2020
+CUST010,Mary Ann,Male,24/11/1979,Ibadan,Nigeria,michael.adeyemi@gmail.com,2.34806E+12,03/05/2017
+CUST011,Michael Adeyemi,Male,27/05/1995,Kano,Nigeria,peter.johnsongmail.com,2.34805E+12,12/05/2017
+CUST012,John Doe,FEMALE,26/01/2003,ibadan,Nigeria,peter.johnsongmail.com,2.34809E+12,26/09/2017
+CUST013,David Okoro,FEMALE,19/03/1976,Port Harcourt,Nigeria,maryann@gmail..com,,05/12/2018
+CUST014,Emeka Obi,Male,08/04/1993,ENUGU,Nigeria,maryann@gmail..com,2.34803E+12,13/01/2018
+CUST015,Peter Johnson,FEMALE,05/05/1978,Benin City,Nigeria,peter.johnsongmail.com,8127109722,03/09/2018
+CUST016,Michael Adeyemi,Female,21/04/1990,Enugu,Nigeria,davidokoro@yahoo,8124642139,24/06/2017
+CUST017,David Okoro,MALE,26/03/1980,Kano,Nigeria,davidokoro@yahoo,2.34808E+12,26/12/2022
+CUST018,Emeka Obi,MALE,21/08/1980,Abuja,Nigeria,sarahmusa@gmail.com,,24/06/2022
+CUST019,Chioma Eze,Female,19/11/1993,ENUGU,Nigeria,michael.adeyemi@gmail.com,2.34803E+12,09/10/2019
+CUST020,Mary-Ann Bello,Male,08/10/2004,ibadan,Nigeria,peter.johnsongmail.com,,16/05/2019
+CUST021,Michael Adeyemi,MALE,31/12/1975,Abjua,Nigeria,michael.adeyemi@gmail.com,,20/02/2022
+CUST022,Mary-Ann Bello,Female,20/05/1981,Lagos,Nigeria,michael.adeyemi@gmail.com,,11/11/2022
+CUST023,Mary Ann,Male,21/09/1983,ibadan,Nigeria,davidokoro@yahoo,,13/12/2021
+CUST024,John Doe,MALE,21/07/1986,Kano,Nigeria,joyuche@Gmail.com,2.34809E+12,19/05/2022
