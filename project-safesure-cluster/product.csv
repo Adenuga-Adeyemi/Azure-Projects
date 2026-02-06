@@ -1,0 +1,4 @@
+ProductID,ProductName,Category,Premium,CoverageType,DurationMonths
+PROD01,Auto Shield,Vehicle,"₦45,000",Third Party,12
+PROD02,Health Secure,Health,"₦90,000",Full,12
+PROD03,Home Protect,Property,"₦120,000",Full,24
